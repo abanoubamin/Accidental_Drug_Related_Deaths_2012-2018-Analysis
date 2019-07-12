@@ -24,5 +24,7 @@ and how do you implement the Big Data project Lifecycle
         d. The used Tools and framework
         e. Project code
         f. References for your readings and Libraries
+## Development Tool
+R
 ## Project Achievement
 Predict manner of death (Accident, Pending or Natural) for one that takes drugs in New England.
